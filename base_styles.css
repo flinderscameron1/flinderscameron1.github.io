@@ -85,10 +85,11 @@ article {
 
 
 article.home {
-    background-image: url('mefish.png');
-    background-size: cover;
-    background-position: center;
-    height: 80vh;
+    background-image: url('ski.jpg');
+    background-size: contain; 
+    background-repeat: no-repeat;
+    background-position: center; 
+    height: 80vh; 
     display: flex;
     align-items: center;
     justify-content: center;
